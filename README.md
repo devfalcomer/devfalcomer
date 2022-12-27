@@ -1,5 +1,5 @@
 
-### Olá eu sou Arthur Falcomer 👋
+### Arthur Falcomer 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-falcomer-180b8a180/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/art.falcomer/)
