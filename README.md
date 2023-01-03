@@ -1,6 +1,7 @@
 
 ### Arthur Falcomer 👋
 
+## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-falcomer-180b8a180/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/art.falcomer/)
 
@@ -9,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfalcomer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-
 <div style="display: inline_block"></br>
 <img aling="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img aling="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
