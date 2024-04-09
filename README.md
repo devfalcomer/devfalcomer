@@ -17,6 +17,7 @@
   <img aling="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img aling="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponents"/>
   <img aling="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img aling="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 </div>
 
@@ -36,7 +37,7 @@
 ## Setup
 <div style="display: inline_block">
   <img alt="Ryzen 7 5700G"  src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img alt="GTX 1060 6GB ASUS" src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img alt="Windows 10 64bits" src="https://img.shields.io/badge/Windows_10_pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+  <img alt="RTX 2060 12GB ASUS" src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img alt="Windows 11 64bits" src="https://img.shields.io/badge/Windows_10_pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </div>
 
