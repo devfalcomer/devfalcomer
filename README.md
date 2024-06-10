@@ -37,7 +37,7 @@
 ## Setup
 <div style="display: inline_block">
   <img alt="Ryzen 7 5700G"  src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img alt="RTX 2060 12GB ASUS" src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img alt="Windows 11 64bits" src="https://img.shields.io/badge/Windows_10_pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+  <img alt="RTX 2060 12GB ASUS" src="https://img.shields.io/badge/RTX-2060-12GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img alt="Windows 11 64bits" src="https://img.shields.io/badge/Windows_11_pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </div>
 
