@@ -1,7 +1,6 @@
 ## Olá meu nome é Arthur Falcomer
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estou me aprofundando em React.js com TypeScript e com Next.js
+- 🔭 Desenvolvedor Front-End & Back-End
 - Atualmente migrando para Java tendo possibilidade de ser um FullStack
 
 ## Linguagens
