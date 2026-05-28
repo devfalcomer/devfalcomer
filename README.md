@@ -1,7 +1,6 @@
 ## Olá meu nome é Arthur Falcomer
 
-- 🔭 Desenvolvedor Front-End & Back-End
-- Atualmente migrando para Java tendo possibilidade de ser um FullStack
+- 🔭 Desenvolvedor Front-End
 
 ## Linguagens
 <div style="display: inline_block"><br>
