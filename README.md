@@ -1,6 +1,7 @@
 ## Olá meu nome é Arthur Falcomer
 
-- 🔭 Desenvolvedor Front-End
+Sou Desenvolvedor Front-End e Desenvolvedor Back-End em formação em Java.
+
 
 ## Linguagens
 <div style="display: inline_block"><br>
